@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: wubo's Homepage.com
+url: http://lovewubo.github.io
+feed: /atom.xml
+author_info: <a href="http://lovewubo.github.io/">wubo</a>
