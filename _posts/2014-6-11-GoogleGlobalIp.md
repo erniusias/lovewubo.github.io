@@ -2,7 +2,7 @@
 layout: post
 title: All IP of Google
 category: blog
-description: useful linker
+description: useful link
 ---
 
 ## All IP of Google
