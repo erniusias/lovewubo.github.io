@@ -1,3 +1,10 @@
+---
+layout: post
+title: Markdown语法示例
+category: blog
+description: 转载的，查看原文请[点击这里](https://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)!
+---
+
 << [访问 Wow!Ubuntu](http://wowubuntu.com)
 
 **NOTE:** This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][eng-doc].
