@@ -339,3 +339,10 @@ ok。通过以上操作，linux下面的共享库的版本约定和控制，就�
 	可以查看应用程序或共享库依赖的库
 	example: ldd main
 * objdump 与readelf 类似
+
+##参考资料
+[http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html](http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)
+
+[http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html](http://www.cprogramming.com/tutorial/shared-libraries-linux-gcc.html)
+
+[http://www.linuxidc.com/Linux/2012-04/59071p2.htm](http://www.linuxidc.com/Linux/2012-04/59071p2.htm)
