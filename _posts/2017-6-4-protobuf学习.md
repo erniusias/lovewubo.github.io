@@ -1,3 +1,13 @@
+
+---
+layout: post
+title: Protobuf简单介绍
+category: blog
+description: just to read it
+---
+
+
+
 ## Protobuf介绍
 
 protobuf是google提供的一个开源序列化框架，类似于XML，JSON这样的数据表示语言，其最大的特点是基于二进制，因此比传统的XML表示高效短小得多。虽然是二进制数据格式，但并没有因此变得复杂，开发人员通过按照一定的语法定义结构化的消息格式，然后送给命令行工具，工具将自动生成相关的类，可以支持PHP、Java、c++、Python等语言环境。通过将这些类包含在项目中，可以很轻松的调用相关方法来完成业务消息的序列化与反序列化工作.
